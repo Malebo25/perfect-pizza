@@ -50,14 +50,5 @@ body {
     }
      
 }
-@media (min-width:760px) {
-    body {
-        background-color:crimson;
-        
-     }
-     .large_pizza{
-        background-color: blueviolet;
-        flex:4;
-     }
+
      
-}
